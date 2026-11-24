@@ -20,7 +20,7 @@ formats:
 
 # Python Concurrency with asyncio
 
-![Python Concurrency with asyncio](https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781617298660/python-concurrency-with-asyncio-9781617298660_hr.jpg)
+![Python Concurrency with asyncio](https://covers.openlibrary.org/b/isbn/9781617298660-L.jpg)
 
 **Author:** Matthew Fowler  
 **Reading status:** In progress  
